@@ -3,7 +3,7 @@
 
 AlgorithmPython
 
--   By: Alexa Orrico, Software Engineer at Holberton School
+-   By: Ajayi Elijah , Software Engineer at alx africa  
 
 Requirements
 ------------
@@ -41,7 +41,6 @@ The N queens puzzle is the challenge of placing N non-attacking queens on an N×
     -   You don't have to print the solutions in a specific order
 -   You are only allowed to import the `sys` module
 
-Read: [Queen](https://alx-intranet.hbtn.io/rltoken/ghWqI1wvx6g-Ul7nrufMKA "Queen"), [Backtracking](https://alx-intranet.hbtn.io/rltoken/-hgZbgRFkwmxaKnLnCIuEQ "Backtracking")
 
 ```
 julien@ubuntu:~/0x08. N Queens$ ./0-nqueens.py 4
